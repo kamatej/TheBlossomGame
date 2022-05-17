@@ -2,7 +2,7 @@
 
 ## The Objective
 
-The Balls is the original game name (and the name of the Unity Project).
+The Balls is the original game name.
 As the project progressed the name was changed to Blossom.
 The objective of the game is for the player = Lotus flower, to catch/tap as many Bees as possible.
 One Bee tap equals one point.
